@@ -64,14 +64,14 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "nminfante@mail.wvu.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "P.O. Box 6310, 320 Armstrong Hall, Morganotwn, WV, 26506, USA"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
+  Email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  # Monday 10:00 to 13:00<br> to add office hours above
+
+  phone = "304.293.1506"
+  skype = "nengelke"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
