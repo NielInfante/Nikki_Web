@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Undergraduate Mathematics Education",
     "Gesture Use",
+    "Calculus",
     "Proof"
   ]
 
@@ -19,22 +20,20 @@ weight = 5
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "Arizona State University"
-  year = 2003
+  year = 2007
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Mathematics"
+  institution = "University of Connecticut"
+  year = 1998
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Mathematics and German"
+  institution = "University of Nebraska at Omaha"
+  year = 1996
 
 +++
 
 # Biography
 
 Nikki is super awesome and great at almost everything. And pretty too.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
