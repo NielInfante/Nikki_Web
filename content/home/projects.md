@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
-subtitle = ""
+title = "Research Projects"
+subtitle = "What I'm currently thinking about"
 
 # Order that this section will appear in.
 weight = 50
@@ -49,4 +49,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-
