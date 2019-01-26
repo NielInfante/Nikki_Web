@@ -1,0 +1,351 @@
+﻿@article{RN348,
+   author = {Bonsangue, Martin V. and CadwalladerOlsker, Todd and Fernandez-Weston, C.  and Filowitz, M.  and Hershey, J. and Moon, H. and Renne, C. and Sullivan, E.  and Walker, Sean and Woods, Rochelle and Engelke, Nicole},
+   title = {The Effect of Supplemental Instruction on Transfer Student Success in First-Semester Calculus},
+   journal = {The Learning Assistance Review},
+   volume = {18},
+   number = {1},
+   pages = {61-75},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@inproceedings{RN392,
+   author = {CadwalladerOlsker, T. and Annin, S. and Engelke, N.},
+   title = {Counting Problem Strategies of Preservice and Inservice Teachers},
+   booktitle = {Fourteenth Annual Research in Undergraduate Mathematics Education Conference},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN395,
+   author = {CadwalladerOlsker, T. and Engelke, N. and Annin, S. and Henning, A.},
+   title = {Does a Statement of Whether Order Matters in Counting Problems Affect Students' Strategies? },
+   booktitle = {Fifteenth Annual Research in Undergraduate Mathematics Education Conference },
+   pages = {17-23e},
+   url = {http://sigmaa.maa.org/rume/crume2012/RUME_Home/RUME_Conference_Papers_files/RUME_XV_Conference_Papers.pdf},
+   type = {Conference Proceedings}
+}
+
+@article{RN198,
+   author = {Carlson, M. and Oehrtman, M. and Engelke, N.},
+   title = {The Precalculus Concept Assessment: A Tool for Assessing Reasoning Abilities and Understandings of Precalculus Level Students},
+   journal = {Cognition and Instruction},
+   volume = {28},
+   number = {2},
+   pages = {113-145},
+   DOI = {10.1080/07370001003676587},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@inproceedings{RN435,
+   author = {Engelke Infante, N.},
+   title = {Gesture: Bringing Life to Calculus},
+   booktitle = {Sixth Conference of the International Society for Gesture Studies: Gesture in Interaction},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN533,
+   author = {Engelke Infante, N.},
+   title = {The Second Derivative Test: A Case Study of Instructor Gesture Use},
+   booktitle = {38th Annual Conference of the North American Chapter of the International Group for the Psychology of Mathematics Education},
+   type = {Conference Proceedings}
+}
+
+@article{RN346,
+   author = {Engelke Infante, N. and Kimani, P.},
+   title = {Using Licorice to Reinvent Trigonometric Functions},
+   journal = {MathAMATYC Educator},
+   volume = {4},
+   number = {2},
+   pages = {41-46},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN595,
+   author = {Engelke Infante, N. and Murphy, K. and Glenn, C. and Sealey, V. L.},
+   title = {How concept images affect students’ interpretations of Newton’smethod},
+   journal = {INTERNATIONAL JOURNAL OF MATHEMATICAL EDUCATION IN SCIENCE AND TECHNOLOGY},
+   volume = {49},
+   number = {5},
+   pages = {643-659},
+   DOI = {10.1080/0020739X.2017.1410737},
+   url = {https://doi.org/10.1080/0020739X.2017.1410737},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@inproceedings{RN150,
+   author = {Engelke, N.},
+   title = {Related Rates Problems: Identifying Conceptual Barriers},
+   booktitle = {26th Annual Conference of the North American Chapter of the International Group for the Psychology of Mathematics Education},
+   editor = {McDougall, Doug},
+   volume = {2},
+   pages = {455-462},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN189,
+   author = {Engelke, N.},
+   title = {Teaching Innovations for Problems Involving Rates in Calculus},
+   booktitle = {28th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education},
+   editor = {Alatorre, S. , Cortina, J.L., Saiz, M., & Mendez, A.},
+   publisher = {Universida Pedagogica Nacional},
+   volume = {2},
+   pages = {882-883},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN188,
+   author = {Engelke, N.},
+   title = {A Framework to Describe the Solution Process for Related Rates Problems in Calculus},
+   booktitle = {29th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education},
+   editor = {Lamberg, T. & Wiest, L.R.},
+   publisher = {University of Nevada, Reno},
+   pages = {441-448},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN388,
+   author = {Engelke, N.},
+   title = {A Framework to Describe the Solution Process for Related Rates Problems in Calculus},
+   booktitle = {Tenth Annual Conference on Research in Undergraduate Mathematics Education },
+   url = {http://sigmaa.maa.org/rume/crume2007/eproc.html
+http://sigmaa.maa.org/rume/crume2007/papers/engelke.pdf},
+   type = {Conference Proceedings}
+}
+
+@phdthesis{RN190,
+   author = {Engelke, N.},
+   title = {Students’ Understanding of Related Rates Problems in Calculus},
+   university = {Arizona State University},
+   type = {Doctoral Dissertation},
+   DOI = {DAI, 68, no. 04A (2007): p. 1373},
+   year = {2007},
+   type = {Thesis}
+}
+
+@inproceedings{RN389,
+   author = {Engelke, N.},
+   title = {Developing the Solution Process for Related Rates Problems Using Computer Simulations},
+   booktitle = {Eleventh Annual Research in Undergraduate Mathematics Education Conference},
+   url = {http://sigmaa.maa.org/rume/crume2008/Proceedings/Proceedings.html
+http://sigmaa.maa.org/rume/crume2008/Proceedings/Engelke%20LONG.pdf},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN391,
+   author = {Engelke, N. and CadwalladerOlsker, T.},
+   title = {Counting Two Ways: The Art of Combinatorial Proof},
+   booktitle = {Thirteenth Annual Research in Undergraduate Mathematics Education Conference},
+   url = {http://sigmaa.maa.org/rume/crume2010/Abstracts2010.htm
+http://sigmaa.maa.org/rume/crume2010/Archive/Engelke.pdf},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN393,
+   author = {Engelke, N. and CadwalladerOlsker, T.},
+   title = {Supplemental Instruction and Related Rates Problems},
+   booktitle = {Fourteenth Annual Conference on Research in Undergraduate Mathematics Education},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN399,
+   author = {Engelke, N. and Karakok, G. and Wangberg, A.},
+   title = {An Annotation Tool Desidned to Interface with WeBWorK: Interpreting Students’ Written Work},
+   booktitle = {Sixteenth Annual Conference on Research in Undergraduate Mathematics Education},
+   volume = {2},
+   pages = {2-699 - 2-701},
+   type = {Conference Proceedings}
+}
+
+@article{RN347,
+   author = {Engelke, N. and Kimani, P.},
+   title = {Twizzler Trig: What is the Sine Function?},
+   journal = {CMC ComMuniCator},
+   volume = {36},
+   number = {2},
+   pages = {30-32, 44},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@inproceedings{RN174,
+   author = {Engelke, N. and Oehrtman, M. and Carlson, M.},
+   title = {Composition of Functions: Precalculus Students' Understandings},
+   booktitle = {27th Annual Conference of the North American Chapter of the International Group for the Psychology of Mathematics Education},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN390,
+   author = {Engelke, N. and Sealey, V. L.},
+   title = {The Great Gorilla Jump: A Riemann Sum Investigation},
+   booktitle = {Twelfth Conference on Research in Undergraduate Mathematics Education },
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN235,
+   author = {Garcia, N. and Engelke Infante, N.},
+   title = {Gestures as Facilitators to Proficient Mental Modelers},
+   booktitle = {34th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education },
+   editor = {Van Zoest, L. R. and Lo, J. J. and Kratky, J. L.},
+   pages = {289-295},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN400,
+   author = {Garcia, N. and Engelke Infante, N.},
+   title = {Gestures: A Window to Mental Model Creation},
+   booktitle = {Sixteenth Annual Conference on Research in Undergraduate Mathematics Education},
+   volume = {2},
+   pages = {2-516 - 2-521},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN604,
+   author = {Hauk, Shandy and Rasmussen, Chris and Infante, Nicole Engelke and Lockwood, Elise and Zandieh, Michelle and Brown, Stacy and Lai, Yvonne and Hsu, Pao-sheng},
+   title = {Research in Collegiate Mathematics Education},
+   booktitle = {AWM Research Symposium},
+   series = {Advances in the Mathematical Sciences},
+   publisher = {Springer International Publishing},
+   volume = {15},
+   pages = {245-268},
+   ISBN = {978-3-319-98684-5},
+   DOI = {https://doi.org/10.1007/978-3-319-98684-5_14},
+   year = {2018},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN402,
+   author = {Karakok, G. and Engelke, N. and Wangberg, A.},
+   title = { WeBWorK CLASS: Fostering Design Experiment Research on Concept Development},
+   booktitle = {Lighthouse Delta 2013: The 9th Delta Conference on the Teaching and Learning of Undergraduate Mathematics and Statistics},
+   editor = {King, D. and Loch, B. and Rylands, L.},
+   pages = {69-80},
+   ISBN = {978-1-74108-289-0},
+   type = {Conference Proceedings}
+}
+
+@article{RN234,
+   author = {Kimani, Patrick  and Engelke, Nicole},
+   title = {Rate Problems: Thinking Across the Curriculum },
+   journal = {The Mathematics Teacher},
+   volume = {106},
+   number = {5},
+   pages = {370-377},
+   url = {http://www.jstor.org/stable/10.5951/mathteacher.106.5.0370},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@phdthesis{RN529,
+   author = {LaRue, R.},
+   title = {An Analysis of Student Approaches to Solving Optimization Problems in First Semester Calculus},
+   university = {West Virginia University},
+   type = {Dissertation},
+   year = {2016},
+   type = {Thesis}
+}
+
+@article{RN476,
+   author = {LaRue, R. and Engelke Infante, N.},
+   title = {Optimization in first semester calculus: a look at a classic problem},
+   journal = {International Journal of Mathematical Education in Science and Technology},
+   volume = {46},
+   number = {7},
+   pages = {1021-1031},
+   DOI = {10.1080/0020739X.2015.1067844},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@inproceedings{RN433,
+   author = {LaRue, R. and Vincent, B. and Sealey, V. L. and Engelke Infante, N.},
+   title = {Calculus Students' Early Concept Images Of Tangent Lines},
+   booktitle = {Seventeenth Annual Conference on Research in Undergraduate Mathematics Education},
+   pages = {803-810},
+   type = {Conference Proceedings}
+}
+
+@article{RN594,
+   author = {Miller, David and Infante, Nicole Engelke and Weber, Keith},
+   title = {How mathematicians assign points to student proofs},
+   journal = {Journal of Mathematical Behavior},
+   volume = {49},
+   pages = {24-34},
+   url = {https://doi.org/10.1016/j.jmathb.2017.03.002},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@inproceedings{RN434,
+   author = {Murphy, K. and Glenn, C. and Engelke Infante, N.},
+   title = {Implied and Empirical Readers Of Newton’s Method},
+   booktitle = {Seventeenth Annual Conference on Research in Undergraduate Mathematics Education},
+   type = {Conference Proceedings}
+}
+
+@article{RN408,
+   author = {Nagle, C. and Moore-Russo, D. and Viglietti, J. and Martin, K.},
+   title = {CALCULUS STUDENTS’ AND INSTRUCTORS’ CONCEPTUALIZATIONS OF SLOPE: A COMPARISON ACROSS ACADEMIC LEVELS},
+   journal = {International Journal of Science and Mathematics Education},
+   volume = {11},
+   number = {6},
+   pages = {1491-1515},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN403,
+   author = {Sealey, V. L.},
+   title = {A framework for characterizing student understanding of Riemann sums and definite integrals},
+   journal = {Journal of Mathematical Behavior},
+   volume = {33},
+   pages = {230-245},
+   url = {http://dx.doi.org/10.1016/j.jmathb.2013.12.002},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN236,
+   author = {Sealey, Vicki Lynn and Engelke, Nicole},
+   title = {The Great Gorilla Jump: A Riemann Sum Investigation},
+   journal = {MathAMATYC Educator},
+   volume = {3},
+   number = {3},
+   pages = {18-22},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN474,
+   author = {Soto-Johnson, Hortensia and Troup, Jonathan},
+   title = {Reasoning on the Complex Plane via Inscriptions and Gesture},
+   journal = {Journal of Mathematical Behavior},
+   volume = {36},
+   pages = {109-125},
+   DOI = {http://dx.doi.org/10.1016/j.jmathb.2014.09.004},
+   url = {http://dx.doi.org/10.1016/j.jmathb.2014.09.004},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN428,
+   author = {Vincent, B. and LaRue, R. and Sealey, V. L. and Engelke, N.},
+   title = {Calculus Students' Early Concept Images of Tangent Lines },
+   journal = {International Journal of Mathematical Education in Science and Technology},
+   volume = {46},
+   number = {5},
+   pages = {641-657},
+   DOI = {10.1080/0020739X.2015.1005700},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@inproceedings{RN394,
+   author = {Wangberg, A. and Engelke, N. and Karakok, G.},
+   title = {Function Composition and the Chain Rule in Calculus},
+   booktitle = {Fourteenth Annual Research in Undergraduate Mathematics Education Conference},
+   type = {Conference Proceedings}
+}
+
