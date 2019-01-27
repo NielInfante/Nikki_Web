@@ -6,7 +6,11 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://math.wvu.edu/~nengelke/"
+Sbaseurl = "/"
+#baseurl = "https://math.wvu.edu/~nengelke/"
+
+RelativeURLs=true
+CanonifyURLs=true
 
 # Title of your site
 title = "Nicole Engelke Infante"
